@@ -1,0 +1,54 @@
+{
+	"profile":{
+		"image":"h.jpg",
+		"name":"bhavani",
+		"roll":"16NN1A1254",
+		"institute":"vignan",
+		"place":"guntur"
+	},
+	"career":{
+		"info":"To secure a challenging position in a reputable organization to expand my learnings, knowledge,and skills."
+	},
+	"educational":[
+		{
+			"degree":"b.tech",
+			"institution":"vignan",
+			"yop":"2020"
+
+		},
+		{
+			"degree":"intermedite",
+		    "institution":"vignan",
+			"yop":"2016"	
+		},
+		{
+		"degree":"ssc",
+		    "institution":"st.jhons",
+			"yop":"2014"		
+		}
+	],
+	"language":[
+		{
+			"lang":"telugu"
+		},
+		{
+			"lang":"english"
+		}
+	],
+	"skills":[
+	{
+		"title":"platform",
+		"content":"windows,linux"
+	},
+	{
+		"title":"programing languages",
+		"content":"c,c++,java"
+	},
+	{
+		"title":"database",
+		"content":"mysql"
+	}
+]
+}
+
+
